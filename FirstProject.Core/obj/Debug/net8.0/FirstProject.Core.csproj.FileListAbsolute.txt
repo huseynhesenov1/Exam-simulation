@@ -1,0 +1,13 @@
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\bin\Debug\net8.0\FirstProject.Core.deps.json
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\bin\Debug\net8.0\FirstProject.Core.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\bin\Debug\net8.0\FirstProject.Core.pdb
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.AssemblyInfo.cs
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.sourcelink.json
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\refint\FirstProject.Core.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.pdb
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\ref\FirstProject.Core.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.Core\obj\Debug\net8.0\FirstProject.Core.csproj.AssemblyReference.cache
