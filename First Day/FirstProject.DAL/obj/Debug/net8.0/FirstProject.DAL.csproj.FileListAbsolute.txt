@@ -1,0 +1,36 @@
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.deps.json
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.pdb
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.Core.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.Core.pdb
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.AssemblyInfo.cs
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.sourcelink.json
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstPro.26F265E7.Up2Date
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\refint\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.pdb
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\ref\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.runtimeconfig.json
+C:\Users\classtime\Desktop\FirstProject\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.genruntimeconfig.cache
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.deps.json
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.runtimeconfig.json
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.DAL.pdb
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.Core.dll
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\bin\Debug\net8.0\FirstProject.Core.pdb
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.AssemblyInfo.cs
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.sourcelink.json
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstPro.26F265E7.Up2Date
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\refint\FirstProject.DAL.dll
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.pdb
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\FirstProject.DAL.genruntimeconfig.cache
+C:\Users\classtime\Desktop\Exam-simulation\First Day\FirstProject.DAL\obj\Debug\net8.0\ref\FirstProject.DAL.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Exam-simulation\\First Day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5150E0D-3BAB-47B7-BE8E-56678DF69409}|FirstProject.MVC\\FirstProject.MVC.csproj|c:\\users\\classtime\\desktop\\exam-simulation\\first day\\firstproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5150E0D-3BAB-47B7-BE8E-56678DF69409}|FirstProject.MVC\\FirstProject.MVC.csproj|solutionrelative:firstproject.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam-simulation\\First Day\\FirstProject.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProject.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam-simulation\\First Day\\FirstProject.MVC\\Program.cs",
+              "RelativeToolTip": "FirstProject.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:04:52.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

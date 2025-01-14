@@ -1,0 +1,23 @@
+﻿@using Project.Core.Entities
+@model Technician
+
+
+<form method="post">
+    <div class="mb-3">
+        <input asp-for="FullName" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="Age" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="Imageurl" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="ServiceId" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <span class="text-danger"> @Html.ValidationSummary() </span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
