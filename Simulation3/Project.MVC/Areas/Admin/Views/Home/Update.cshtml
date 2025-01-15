@@ -1,0 +1,22 @@
+﻿@using Project.BL.DTOs
+@model NewsDto
+
+<div class="container">
+
+    <form method="post" enctype="multipart/form-data">
+
+        <div class="mb-3">
+            <input asp-for="Desciption" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+
+        <div class="mb-3">
+            <input asp-for="CatagoryId" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <input asp-for="ImageUrl" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>
