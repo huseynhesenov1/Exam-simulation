@@ -1,0 +1,77 @@
+﻿@using Listrace.Core.Entities
+@model Place
+
+
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Places Table</h1>
+
+
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <a asp-action="Create" class="btn btn-success">Create</a>
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>CatagoryId</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>IsDelete</th>
+
+                              <th>Rating</th>
+                            <th>RatingCount</th>
+                            <th>OldPrice - NewsPrice</th> 
+                            <th>ImageUrl</th>
+                            <th>Update</th>
+                            <th>Soft Delete</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>#</th>
+                            <th>CatagoryId</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>IsDelete</th>
+                              <th>Rating</th>
+                            <th>RatingCount</th>
+                            <th>OldPrice - NewPrice</th> 
+                            <th>ImageUrl</th>
+                            <th>Update</th>
+                            <th>Soft Delete</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+
+                     
+                            <tr>
+                                <td>@Model.Id</td>
+                            <td>@Model.CatagoryId</td>
+                            <td>@Model.Title</td>
+                            <td>@Model.Description</td>
+                            <td>@Model.IsDeleted</td>
+                              <td>@Model.Rating</td>
+                            <td>@Model.RatingCount</td>
+                            <td>@Model.OldPrice - @Model.NewPrice</td> 
+                            <td>@Model.ImageUrl</td>
+                            <td><a asp-area="Admin" asp-controller="Home" asp-action="Update" asp-route-id="@Model.Id" class="btn btn-success">Update</a></td>
+                            <td><a asp-area="Admin" asp-controller="Home" asp-action="SoftDelete" asp-route-id="@Model.Id" class="btn btn-danger">Soft Delete</a></td>
+                            </tr>
+                        
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->

@@ -1,0 +1,12 @@
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\bin\Debug\net8.0\Listrace.Core.deps.json
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\bin\Debug\net8.0\Listrace.Core.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\bin\Debug\net8.0\Listrace.Core.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.AssemblyInfo.cs
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\refint\Listrace.Core.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\Listrace.Core.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.Core\obj\Debug\net8.0\ref\Listrace.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.deps.json
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.runtimeconfig.json
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.DAL.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.Core.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\bin\Debug\net8.0\Listrace.Core.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.AssemblyInfo.cs
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.4171DB99.Up2Date
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\refint\Listrace.DAL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\Listrace.DAL.genruntimeconfig.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.DAL\obj\Debug\net8.0\ref\Listrace.DAL.dll

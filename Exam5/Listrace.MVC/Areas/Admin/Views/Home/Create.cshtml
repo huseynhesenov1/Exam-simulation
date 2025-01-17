@@ -1,0 +1,32 @@
+﻿@using Listrace.BL.DTOs
+@model PlaceDto
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <input asp-for= "Title" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="Description" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="Rating" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="RatingCount" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="OldPrice" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="NewPrice" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="ImageUrl"  class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+    <div class="mb-3">
+        <input asp-for="CatagoryId" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    </div>
+
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

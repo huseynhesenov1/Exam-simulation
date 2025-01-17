@@ -1,0 +1,17 @@
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.BL.deps.json
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.BL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.BL.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.Core.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.DAL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.DAL.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\bin\Debug\net8.0\Listrace.Core.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.AssemblyInfo.cs
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BC6B7F67.Up2Date
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\refint\Listrace.BL.dll
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\Listrace.BL.pdb
+C:\Users\classtime\Desktop\Exam5\Listrace.BL\obj\Debug\net8.0\ref\Listrace.BL.dll

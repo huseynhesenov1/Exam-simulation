@@ -1,0 +1,747 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\Exam5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.bl\\services\\implementations\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\services\\implementations\\placeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.bl\\services\\abstractions\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\services\\abstractions\\iplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.bl\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\appuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\implementations\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.bl\\dtos\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C91171-EDF3-445E-870F-72F627D7BF7B}|Listrace.BL\\Listrace.BL.csproj|solutionrelative:listrace.bl\\dtos\\placedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\listrace.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\listrace.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|solutionrelative:listrace.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\assets\\css\\bootsnav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\assets\\css\\bootsnav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\assets\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\assets\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\assets\\css\\flaticon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\assets\\css\\flaticon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.core\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|solutionrelative:listrace.core\\entities\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.core\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|solutionrelative:listrace.core\\entities\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\abstractions\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\abstractions\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\implementations\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\implementations\\placerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\repositories\\abstractions\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\repositories\\abstractions\\iplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|solutionrelative:listrace.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5778AE65-3985-4C7E-98FF-A9737F554C47}|Listrace.Core\\Listrace.Core.csproj|solutionrelative:listrace.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B23A62B0-E84E-42FC-A609-1EAEDAF354CA}|Listrace.MVC\\Listrace.MVC.csproj|solutionrelative:listrace.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\migrations\\20250117104745_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\migrations\\20250117104745_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|c:\\users\\classtime\\desktop\\exam5\\listrace.dal\\migrations\\20250117135444_appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFEA995-267D-4838-B417-B1A03A1A516D}|Listrace.DAL\\Listrace.DAL.csproj|solutionrelative:listrace.dal\\migrations\\20250117135444_appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:09:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:50:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Listrace.MVC\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:24:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Listrace.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:09:32.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:50:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\Services\\Abstractions\\IPlaceService.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\Services\\Abstractions\\IPlaceService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\Services\\Abstractions\\IPlaceService.cs",
+              "RelativeToolTip": "Listrace.BL\\Services\\Abstractions\\IPlaceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:06:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\Services\\Implementations\\PlaceService.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\Services\\Implementations\\PlaceService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\Services\\Implementations\\PlaceService.cs",
+              "RelativeToolTip": "Listrace.BL\\Services\\Implementations\\PlaceService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:06:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\AppUserLoginDto.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\AppUserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:05:54.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T14:28:01.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\PlaceDto.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\PlaceDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\PlaceDto.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\PlaceDto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:07:45.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Program.cs",
+              "RelativeToolTip": "Listrace.MVC\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:10:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T15:12:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALMAAAAAAAAAAAAQwMsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:09:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\AppUserDto.cs",
+              "RelativeDocumentMoniker": "Listrace.BL\\DTOs\\AppUserDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.BL\\DTOs\\AppUserDto.cs",
+              "RelativeToolTip": "Listrace.BL\\DTOs\\AppUserDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:58:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\CatagoryRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\CatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\CatagoryRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\CatagoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:02:43.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Listrace.Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Listrace.Core\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:44:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Listrace.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Listrace.MVC.csproj",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Listrace.MVC.csproj",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Listrace.MVC.csproj",
+              "RelativeToolTip": "Listrace.MVC\\Listrace.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T13:50:03.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250117135444_AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Migrations\\20250117135444_AppUser.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Migrations\\20250117135444_AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Migrations\\20250117135444_AppUser.cs",
+              "RelativeToolTip": "Listrace.DAL\\Migrations\\20250117135444_AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:54:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Listrace.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:17:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:16:10.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:35:48.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:15:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:29:15.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:10:46.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:29:12.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIIBAAAAAAAAAIBJwJsBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:29:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:29:59.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:12:00.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootsnav.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\bootsnav.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\assets\\css\\bootsnav.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\bootsnav.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\assets\\css\\bootsnav.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:13:53.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "flaticon.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\flaticon.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\assets\\css\\flaticon.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\flaticon.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\assets\\css\\flaticon.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:13:58.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:14:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\animate.css",
+              "RelativeDocumentMoniker": "Listrace.MVC\\wwwroot\\assets\\css\\animate.css",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\wwwroot\\assets\\css\\animate.css",
+              "RelativeToolTip": "Listrace.MVC\\wwwroot\\assets\\css\\animate.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-17T12:14:03.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:29:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Listrace.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Listrace.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T11:27:57.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:12.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\Catagory.cs",
+              "RelativeDocumentMoniker": "Listrace.Core\\Entities\\Catagory.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\Catagory.cs",
+              "RelativeToolTip": "Listrace.Core\\Entities\\Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:37:55.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\Place.cs",
+              "RelativeDocumentMoniker": "Listrace.Core\\Entities\\Place.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\Place.cs",
+              "RelativeToolTip": "Listrace.Core\\Entities\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:33:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\ICatagoryRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Abstractions\\ICatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\ICatagoryRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Abstractions\\ICatagoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:02:29.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\PlaceRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Implementations\\PlaceRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Implementations\\PlaceRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Implementations\\PlaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:51:27.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\IPlaceRepository.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Repositories\\Abstractions\\IPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Repositories\\Abstractions\\IPlaceRepository.cs",
+              "RelativeToolTip": "Listrace.DAL\\Repositories\\Abstractions\\IPlaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:50:56.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250117104745_init.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Migrations\\20250117104745_init.cs",
+              "RelativeDocumentMoniker": "Listrace.DAL\\Migrations\\20250117104745_init.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.DAL\\Migrations\\20250117104745_init.cs",
+              "RelativeToolTip": "Listrace.DAL\\Migrations\\20250117104745_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:47:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Listrace.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\appsettings.json",
+              "RelativeToolTip": "Listrace.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T10:14:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "Listrace.Core\\Entities\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\BaseAuditable.cs",
+              "RelativeToolTip": "Listrace.Core\\Entities\\BaseAuditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:32:13.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Listrace.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Listrace.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:31:56.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\Exam5\\Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Listrace.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:05.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
